@@ -1,5 +1,5 @@
 <h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:Kamal raj A</h3>
+<h3>Name: Kamal raj A</h3>
 <h3>Register Number: 212223040082</h3>
 <H3>Aim:</H3>
 <p>
@@ -295,6 +295,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
 <hr>
 <h2>Sample Input and Output</h2>
 
@@ -306,6 +307,7 @@ if __name__ == "__main__":
 
 <hr>
 <h2>Result:</h2>
-![image](https://github.com/user-attachments/assets/8715c0d4-da97-43d8-953b-4617067bd1c1)
+
+![image](https://github.com/user-attachments/assets/301576ee-3710-46f2-988f-010cafd3f17a)
 
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
